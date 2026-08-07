@@ -7,3 +7,4 @@ This repository contains PowerShell scripts for automating the remediation of ST
 | Date       | STIG Application | GitHub Link | Description |
 |-----------|-----------------|------------|------------|
 | 08/06/2026 | STIG-ID: WN11-CC-000315 | [Link](https://github.com/elliepham/portfolio/blob/main/STIGS/WN11-CC-000315.ps1)| Implemented PowerShell remediation for STIG-ID: WN11-CC-000315 |
+| 08/07/2026 | STIG-ID: WN11-SO-000255 | [Link](https://github.com/elliepham/portfolio/blob/main/STIGS/WN11-SO-000255.ps1)| Implemented PowerShell remediation for STIG-ID: WN11-SO-000255 |
