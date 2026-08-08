@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the number of allowed bad logon attempts must be configured to three or less.
+    This PowerShell script ensures that the number of allowed bad logon attempts is configured to three or less.
 
 .NOTES
     Author          : Ellie Pham
