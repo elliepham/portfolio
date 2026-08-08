@@ -1,4 +1,4 @@
-<#
+<# 
 .SYNOPSIS
     This PowerShell script ensures that the Windows Installer feature "Always install with elevated privileges" is disabled to prevent standard users from gaining full system control.
 
